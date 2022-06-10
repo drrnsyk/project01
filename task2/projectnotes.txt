@@ -1,0 +1,10 @@
+Project notes:
+1. everytime a file is open, it transfer the data to an array and overwrites the file
+2. if the file is not saved, everything will be lost
+
+3. when file is save, data not written over to the .txt
+4. upon exit, the data will be written over
+5. if file is not save but exit, then nothing will be written over/everything will be gone
+
+Project questions:
+1. is the shopping cart OOP good?
